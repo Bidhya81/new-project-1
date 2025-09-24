@@ -1,5 +1,5 @@
-[
-# Cooking with AI
+
+ Cooking with AI
 
 Final project for the Building AI course
 
@@ -24,6 +24,8 @@ choosing input for our receipe preferences, like, chicken curry , cooking time, 
 Users of AI in cooking include a board range of people such as home cooks, prpofessional chefs, food business and cloud kitchen users.
 Kinds of needs to be taken into account for users of cooking with AI are: planning guidance through receipe and cooking assistance, professionals chefs needs AI tools for receipe innovation and workflow optimization,food business using AI for trend analysis, menu personalization, smart or cloud kitchen using AI for automated cooking, and real time cooking fedback.
  
+
+
 
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
