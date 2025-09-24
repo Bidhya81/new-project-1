@@ -5,17 +5,17 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+This project is all about AI'S capability to personalize and innovatte in cooking but also contribute to smarter kitchen operations and healthier eating habits, which symboisis kitchen into smart environment where meal preparation is assisted by intelligent system.
 
 
 ## Background
+My personal motivation for cooking with AI seems to be connected to my intrest in AI as a learning tool and content creation activites. I have researched Ai learning tools to make a content and cooking related videos for yooutube and suggesst a motivation to blend AI technology with cooking as away to educate, inspire and create engaging content, possible making cooking more accessible, innovative or fun using AI.
+1.Cooking with AI primarily solved the problrm of making meal preparation easier, more pesonalized and less time consuming amid busy lifestyle.
+2.Cooking skill vary widely, and beginners often lack confidence and knowlwdge.
+3.food waste is significant issue, with household frequently discarding unused ingridients.
+The topic of cooking with AI I found intresting because AI blends technology with culinary art to create a smart kitchen that adapts to individual cooking styles, dietery needs and lifestyle preferences, making cooking fun, accessible, enjoyableand innovative.
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
 
 
 ## How is it used?
