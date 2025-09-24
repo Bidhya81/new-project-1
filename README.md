@@ -1,4 +1,4 @@
-
+[
 # Cooking with AI
 
 Final project for the Building AI course
@@ -19,6 +19,12 @@ The topic of cooking with AI I found intresting because AI blends technology wit
 
 
 ## How is it used?
+The process of using an AI assistant is typically follows the steps like:
+choosing input for our receipe preferences, like, chicken curry , cooking time, dietery restrictions, and available ingredients. It may adapt the receipe according to our kitchen tools and appliances.provides real time step by step cooking  cues through voice command or app notifications.It monitor and adjust cooking time in real time by avoiding over or undercooking. AI can offer the plating tips for side dish. This approach turns cooking an interactive guided experience, making it easier and faster.
+Users of AI in cooking include a board range of people such as home cooks, prpofessional chefs, food business and cloud kitchen users.
+Kinds of needs to be taken into account for users of cooking with AI are: planning guidance through receipe and cooking assistance, professionals chefs needs AI tools for receipe innovation and workflow optimization,food business using AI for trend analysis, menu personalization, smart or cloud kitchen using AI for automated cooking, and real time cooking fedback.
+ 
+
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
@@ -74,3 +80,4 @@ How could your project grow and become something even more? What kind of skills,
 * when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
   <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
 * etc
+](i)
