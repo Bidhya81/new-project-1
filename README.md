@@ -25,7 +25,7 @@ Users of AI in cooking include a board range of people such as home cooks, prpof
 Kinds of needs to be taken into account for users of cooking with AI are: planning guidance through receipe and cooking assistance, professionals chefs needs AI tools for receipe innovation and workflow optimization,food business using AI for trend analysis, menu personalization, smart or cloud kitchen using AI for automated cooking, and real time cooking fedback.
  
 
-
+![image of an AI tools for kitchen] (/cooking.jpg)
 
 
 
