@@ -24,9 +24,9 @@ choosing input for our receipe preferences, like, chicken curry , cooking time, 
 Users of AI in cooking include a board range of people such as home cooks, prpofessional chefs, food business and cloud kitchen users.
 Kinds of needs to be taken into account for users of cooking with AI are: planning guidance through receipe and cooking assistance, professionals chefs needs AI tools for receipe innovation and workflow optimization,food business using AI for trend analysis, menu personalization, smart or cloud kitchen using AI for automated cooking, and real time cooking fedback.
 
-![Cooking with AI] (https://github.com/Bidhya81/new-project-1/blob/main/mor-shani-7TStr3RJdjc-unsplash%20(1).jpg
-https://github.com/Bidhya81/new-project-1/blob/main/mor-shani-7TStr3RJdjc-unsplash%20(1).jpg?raw=true
-https://raw.githubusercontent.com/Bidhya81/new-project-1/refs/heads/main/mor-shani-7TStr3RJdjc-unsplash%20(1).jpg
+
+
+![Cooking with AI]https://raw.githubusercontent.com/Bidhya81/new-project-1/refs/heads/main/mor-shani-7TStr3RJdjc-unsplash%20(1).jpg
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
