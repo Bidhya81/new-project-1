@@ -26,6 +26,7 @@ Kinds of needs to be taken into account for users of cooking with AI are: planni
 
 ![Cooking with AI](https://raw.githubusercontent.com/Bidhya81/new-project-1/main/mor-shani-7TStr3RJdjc-unsplash%20(1).jpg)
 
+<img src="https://raw.githubusercontent.com/Bidhya81/new-project-1/main/mor-shani-7TStr3RJdjc-unsplash%20(1).jpg" alt="Cooking with AI" width="400">
 
 
 Images will make your README look nice!
