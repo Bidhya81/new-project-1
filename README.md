@@ -26,7 +26,7 @@ Kinds of needs to be taken into account for users of cooking with AI are: planni
 
 ![Cooking with AI] (https://github.com/Bidhya81/new-project-1/blob/main/mor-shani-7TStr3RJdjc-unsplash%20(1).jpg
 https://github.com/Bidhya81/new-project-1/blob/main/mor-shani-7TStr3RJdjc-unsplash%20(1).jpg?raw=true
-
+https://raw.githubusercontent.com/Bidhya81/new-project-1/refs/heads/main/mor-shani-7TStr3RJdjc-unsplash%20(1).jpg
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
