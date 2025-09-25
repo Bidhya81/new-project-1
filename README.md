@@ -59,20 +59,25 @@ If you need to use links, here's an example:
 | Header      | Title       |
 | Paragraph   | Text        |
 
-## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+Challenges of cooking with AI is that the system cannot actually taste or smell food. so flavour adjustment is difficult.Another challenge is handling data from different
+cuisines and formats. In future this project may grow by adding more detailed receipe including real time  feedback.
+The project does not gurantee perfect or personalised receipe for every users taste.
+It does not handle nutritional accuracy.It cannot taste or adjust seasoning. It does not solve the problem of availability.
 
-## What next?
 
 How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+In the future, this prpoject could suggest personalized recipes based on users preferences and dietery needs.
+It could alsp provide notritional information and ingredient substitution.
+The system might connect with smart kitchen devices to give step by step cooking guidance.
 
 
-## Acknowledgments
+## Acknowledgements
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
-](i)
+
+* I would like to thank  Unsplash for providing free cooking images.
+*I acknowledge GitHub documentation for guiding project setup.
+*I also thank ChatGPT for helping with project guidance in structuring the README and Project explanations.
+  
+
+
